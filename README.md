@@ -10,6 +10,8 @@ But first, let's discuss what "Devin" is not before we dive into what Devinci wi
 - **Revolutionary** - For the layman (especially VCs and AI YouTubers), some of what Devin does might seem like magic. But alas, there is nothing about Devin that is magic, special, or out of the ordinary. For those more knowledgeable, every component of Devin is easily replicable (if one desired to replicate it, which, as we will discuss, there are aspects of Devin that are definitely not desirable). In other words, there is no moat. Open-source efforts, whether this repo or another, will do a better job of creating what developers truly want, not what they need to show VCs and Twitter to generate hype and secure funding.
 - **Taking Jobs** - If you're worried that Devin is going to take your job as a developer, the best response is to educate yourself. A good starting point is watching [this video](https://www.youtube.com/watch?v=80MPXoRHvK8) from The Primeagean. TLDR; The examples are cherry-picked, the software engineering benchmark still only represents a small fraction of real-world problems, and the company behind Devin is actively hiring entry to medium level developers. Why would they need developers, especially at this level, if they have Devin? **Makes you think...** Furthermore, if AI were to actually do what management wants without the input of developers, it would likely crash the company. **These kinds of tools cannot exist without developers.**
 
+And if you're overly impressed by these clearly cherry-picked demos, watch [this video](https://youtu.be/m8VSYcLqaLQ?si=KQYN4yMc2i91JD82&t=887) from Theo.
+
 ## About Devinci
 
 Tools like Devin should possess certain characteristics - the first and most important being:
