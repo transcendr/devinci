@@ -66,3 +66,7 @@ If you're interested in contributing to this mission and combating the lies and 
 ### Share
 
 Please share and spread the word far and wide about Devinci and help disseminate this important message to the masses. We developers will determine the future of development, not four people trying to impress VCs from their garage who can't even use their own tool or even ACTUAL DEVELOPERS to build a proper and secure website (maybe that's why they need to hire more actual developers?) and whose bot makes PRs so [terrifyingly bad](https://www.reddit.com/r/singularity/comments/1bcyqup/comment/kuj0twu/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) it hurts to look at.
+
+## Discussion
+
+Have thoughts and ideas about the future of this project? Join the [discussion here](https://github.com/transcendr/devinci/discussions).
